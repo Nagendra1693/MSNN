@@ -2,9 +2,8 @@ Multilayer Extreme Learning Machine with Subnetwork nodes.
 --------
 
 Extreme Learining Machine is a single layer feed forward network. According to the paper mentioned below, we can replace the hidden node with subwork formed by several hidden nodes which naturally form s biological learning. There are few differences between the proposed model and the conventional ELM.
-
-    1.Hidden nodes are generated randomly one by one in ELM. Subnetwork nodes are used in the proposed model instead of single hidden node.
-    2.Number of hidden nodes and diemension if outputs in ELM are independent. In the proposed model, dimension of general nodes and outputs are also independent but number of hidden nodes in a general neuron should be equal to the dinmension of the outputs.
+1.Hidden nodes are generated randomly one by one in ELM. Subnetwork nodes are used in the proposed model instead of single hidden node.
+2.Number of hidden nodes and diemension if outputs in ELM are independent. In the proposed model, dimension of general nodes and outputs are also independent but number of hidden nodes in a general neuron should be equal to the dinmension of the outputs.
 
 
 Highlights:
