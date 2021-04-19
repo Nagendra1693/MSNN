@@ -1,4 +1,4 @@
-Multilayer Extreme Learning Machine with Subnetwork nodes.
+Multilayer Extreme Learning Machine with Subnetwork nodes
 --------
 
 Extreme Learining Machine is a single layer feed forward network. According to the paper mentioned below, we can replace the hidden node with subwork formed by several hidden nodes which naturally form s biological learning.
